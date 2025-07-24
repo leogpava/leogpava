@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/46551529?s=280&v=4"  />
+<img align="right" height="150" src="https://i.imgflip.com/a17h7d.gif"  />
 
 ###
 
@@ -40,7 +40,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/leogpava/leogpava/output/snake.svg" alt="Snake animation" />
 
 ###
