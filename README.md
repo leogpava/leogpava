@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/a17igy.gif"  />
+<img align="right" height="150" src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/94.gif?raw=true"  />
 
 ###
 
