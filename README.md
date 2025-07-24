@@ -1,13 +1,10 @@
 <h2 align="left">Hi 👋! My name is Leonardo and I'm a SAP Cloud Integration Consultant, from Brazil</h2>
 
-###
-
 - 🧑🏻‍💻 Atualmente trabalho como Consultor de Integração Jr.
 - 🌱 Estudando SAP Integration Suite
 - 🟣 Trabalho na Lab2Dev
 - ✉️ E-mail pessoal: leonardogpavanelli@gmail.com
-
-___
+##
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leogpava&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" height="140" alt="stats graph"  />
@@ -49,7 +46,8 @@ ___
 </div>
 
 ###
-
+#
+<img src="https://raw.githubusercontent.com/leogpava/leogpava/output/snake.svg" alt="Snake animation" />
 <br clear="both">
 
 ###
