@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Leonardo and I'm a SAP Cloud Integration Consultant, from Brazil</h2>
+<h2 align="left">SAP Integration Consultant | Integration Suite | CPI | Event Mesh | API Managament</h2>
 
 ###
 <div align="center">
