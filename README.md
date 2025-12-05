@@ -2,7 +2,7 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 <div align="center">
-  <h3>SAP Integration Consultant | Integration Suite | CPI | Event Mesh | API Managament</h3>
+  <h3>SAP Integration Consultant | Integration Suite | CPI | Event Mesh | API Management</h3>
   <p>Tech enthusiast. Passionate about exploring AI, sharing knowledge, and crafting integration flows.</p>
 </div>
 
