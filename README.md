@@ -2,20 +2,21 @@
 
 # Hi, I'm Leo 👋
 
-### SAP Integration Consultant
+### SAP Integration Consultant · SAP Certified
 
 I design reliable integrations that connect systems, APIs, events, and business processes.
 
 [![SAP Integration Suite](https://img.shields.io/badge/SAP_Integration_Suite-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/products/technology-platform/integration-suite.html)
 ![Cloud Integration](https://img.shields.io/badge/Cloud_Integration-0070F2?style=for-the-badge&logo=sap&logoColor=white)
-![API Management](https://img.shields.io/badge/API_Management-354A5F?style=for-the-badge&logo=fastapi&logoColor=white)
-![Event Mesh](https://img.shields.io/badge/Event_Mesh-E76500?style=for-the-badge&logo=apachekafka&logoColor=white)
+![API Management](https://img.shields.io/badge/API_Management-354A5F?style=for-the-badge&logo=sap&logoColor=white)
+![Event Mesh](https://img.shields.io/badge/Event_Mesh-E76500?style=for-the-badge&logo=sap&logoColor=white)
+![Generative AI](https://img.shields.io/badge/SAP_Generative_AI-5D36FF?style=for-the-badge&logo=sap&logoColor=white)
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 About me
 
 I work at the intersection of **enterprise integration, cloud, and software engineering**, turning complex requirements into maintainable integration solutions.
 
@@ -30,37 +31,49 @@ I work at the intersection of **enterprise integration, cloud, and software engi
 
 I enjoy sharing what I learn, experimenting with new technologies, and making integration landscapes easier to understand and operate.
 
-## What I care about
+## 🏅 Certifications
+
+<!-- Replace with your Credly badge links and confirm the official titles -->
+
+| | Certification | Credential |
+|---|---|---|
+| <img src="https://img.shields.io/badge/SAP-Certified-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Certified" /> | **SAP Certified Associate – Integration Developer** | [View badge](https://www.credly.com/users/CHANGE-ME) |
+| <img src="https://img.shields.io/badge/SAP-Certified-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Certified" /> | **SAP Certified Associate – SAP Generative AI Developer** | [View badge](https://www.credly.com/users/CHANGE-ME) |
+
+## 💡 What I care about
 
 ```text
 Reliable integrations  •  Clear architecture  •  Maintainable code
 API governance         •  Event-driven design •  Knowledge sharing
 ```
 
-## Technology toolkit
+## 🛠️ Tech stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,git,github,postman,vscode&theme=light" alt="JavaScript, TypeScript, Python, React, Git, GitHub, Postman and VS Code" />
-</div>
+**SAP & Integration**
 
-<br />
+<p>
+  <img src="https://img.shields.io/badge/SAP_BTP-0070F2?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP" />
+  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP" />
+  <img src="https://img.shields.io/badge/SAP_RAP-354A5F?style=for-the-badge&logo=sap&logoColor=white" alt="SAP RAP" />
+  <img src="https://img.shields.io/badge/OData-E76500?style=for-the-badge&logo=sap&logoColor=white" alt="OData" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white" alt="Groovy" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
 
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
-![ABAP](https://img.shields.io/badge/ABAP-E76500?style=flat-square&logo=sap&logoColor=white)
-![SAP RAP](https://img.shields.io/badge/SAP_RAP-0B5CAD?style=flat-square&logo=sap&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
-![OData](https://img.shields.io/badge/OData-0B5CAD?style=flat-square&logo=sap&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-292929?style=flat-square&logo=json&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white)
+**Engineering**
 
-## GitHub activity
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,react,git,github,postman,vscode&theme=dark" alt="JavaScript, TypeScript, Python, Go, React, Git, GitHub, Postman and VS Code" />
+</p>
+
+## 📊 GitHub activity
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=leogpava&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="Leo's GitHub statistics" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=leogpava&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;langs_count=6" alt="Most used languages" />
 </div>
 
-## Let's connect
+## 🤝 Let's connect
 
 I'm always interested in conversations about **SAP Integration Suite, integration architecture, APIs, event-driven systems, and applied AI**.
 
