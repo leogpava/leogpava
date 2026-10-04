@@ -37,8 +37,8 @@ I enjoy sharing what I learn, experimenting with new technologies, and making in
 
 | | Certification | Credential |
 |---|---|---|
-| <img src="https://img.shields.io/badge/SAP-Certified-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Certified" /> | **SAP Certified Associate – Integration Developer** | [View badge](https://www.credly.com/users/CHANGE-ME) |
-| <img src="https://img.shields.io/badge/SAP-Certified-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Certified" /> | **SAP Certified Associate – SAP Generative AI Developer** | [View badge](https://www.credly.com/users/CHANGE-ME) |
+| <img src="https://img.shields.io/badge/SAP-Certified-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Certified" /> | **SAP Certified Associate – Integration Developer** | [View badge](https://www.credly.com/badges/f9deee77-ba9a-4e09-8977-e0fa9386d1f0/public_url) |
+| <img src="https://img.shields.io/badge/SAP-Certified-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP Certified" /> | **SAP Certified Associate – SAP Generative AI Developer** | [View badge](https://www.credly.com/badges/bb5a69ed-8b78-486a-9ee5-ee3798614efa/public_url) |
 
 ## 💡 What I care about
 
